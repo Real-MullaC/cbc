@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Computers on CBC Documentation</title>
+    <link>http://localhost:1313/computers/</link>
+    <description>Recent content in Computers on CBC Documentation</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 04 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/computers/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Extending Screen</title>
+      <link>http://localhost:1313/computers/extend-screens/</link>
+      <pubDate>Mon, 04 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/computers/extend-screens/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;&lt;code&gt;Windows Key + P&lt;/code&gt;&lt;/li&gt;&#xA;&lt;li&gt;Extend&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>PC Shortcuts</title>
+      <link>http://localhost:1313/computers/shortcuts/</link>
+      <pubDate>Mon, 04 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/computers/shortcuts/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;&lt;code&gt;Ctrl + C&lt;/code&gt;: Copy&lt;/li&gt;&#xA;&lt;li&gt;&lt;code&gt;Ctrl + V&lt;/code&gt;: Paste&lt;/li&gt;&#xA;&lt;li&gt;&lt;code&gt;Ctrl + X&lt;/code&gt;: Cut&lt;/li&gt;&#xA;&lt;li&gt;&lt;code&gt;Ctrl + P&lt;/code&gt;: Print&lt;/li&gt;&#xA;&lt;li&gt;&lt;code&gt;Ctrl + F&lt;/code&gt;: Find (Works on ProSolution)&lt;/li&gt;&#xA;&lt;li&gt;&lt;code&gt;Ctrl + S&lt;/code&gt;: Save&lt;/li&gt;&#xA;&lt;li&gt;&lt;code&gt;Ctrl + Z&lt;/code&gt;: Undo&lt;/li&gt;&#xA;&lt;li&gt;&lt;code&gt;Ctrl + Y&lt;/code&gt;: Redo&lt;/li&gt;&#xA;&lt;li&gt;&lt;code&gt;Ctrl + C&lt;/code&gt;: Copy&lt;/li&gt;&#xA;&lt;li&gt;&lt;code&gt;Shift + F5&lt;/code&gt;: Start Slideshow from Current Slide&lt;/li&gt;&#xA;&lt;li&gt;&lt;code&gt;F5&lt;/code&gt;: Start Slideshow from Start&lt;/li&gt;&#xA;&lt;li&gt;&lt;code&gt;Alt + Tab&lt;/code&gt;: Switch Windows Quickly&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

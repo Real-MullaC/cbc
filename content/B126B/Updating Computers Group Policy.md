@@ -23,5 +23,5 @@ type: "post"
 ## Setting Group Policy
 
 - On each Client PC launch cmd (Command Prompt)
-- Run command '''gpupdate /force'''
+- Run command ```gpupdate /force```
 - After command ran restart PC
