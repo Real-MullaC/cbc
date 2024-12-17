@@ -17,3 +17,5 @@ type: "post"
 - ```Shift + F5```: Start Slideshow from Current Slide
 - ```F5```: Start Slideshow from Start
 - ```Alt + Tab```: Switch Windows Quickly
+- ```Windows Key + D```: Switch to Desktop Quickly
+- ```Windows Key + L```: Lock PC Quickly
