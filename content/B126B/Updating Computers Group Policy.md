@@ -24,4 +24,4 @@ type: "post"
 
 - On each Client PC launch cmd (Command Prompt)
 - Run command ```gpupdate /force```
-- After command ran restart PC
+- After command has finished, restart PC
